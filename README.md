@@ -360,4 +360,4 @@ Assignment operators are used to assigning values to the variables.
 
 I hope this module can be useful for you to understand Operators in Python. You should try to use all the Operators and functionality to get a better understanding. Stay in touch with us to find out more modules that are taught like this. Keep rehearsing it!
 
-Original posted on -  [Error By Night](https://errorbynight.com/python-operators)
+Original posted on -  [Python operators](https://alimammiya.hashnode.dev/python-operators)
